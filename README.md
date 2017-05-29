@@ -18,7 +18,9 @@ Passos para funcionar.
     
     5. Abra Package Manager Console Window e coloque "Update-Database" depois "Enter", faça isso na camada FCamara.Infra
     
-    6. Abra Package Manager Console Window e coloque "fluentvalidator" em todas as camadas.
+    6. Setar aplicação para iniciar FCamara.API
+    
+    Se ncessário fazer o passo 7. Abra Package Manager Console Window e coloque "fluentvalidator" em todas as camadas.
     
  ##Technologies implemented:
 
@@ -37,6 +39,8 @@ Passos para funcionar.
     Domain Driven Design (usando alguns conceitos)
     Domain Notification
     
+ Sistema já executa SEED dos dados.
+ 
  Dúvidas na execução do código pode entar em contato: edijs.britto@gmail.com
    
     
