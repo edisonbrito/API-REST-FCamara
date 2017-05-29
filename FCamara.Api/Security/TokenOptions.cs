@@ -18,7 +18,7 @@ namespace FCamara.Api.Security
 
         public DateTime IssuedAt { get; set; }
 
-        public TimeSpan ValidFor { get; set; } = TimeSpan.FromMinutes(2);
+        public TimeSpan ValidFor { get; set; } = TimeSpan.FromMinutes(1);
 
         public DateTime Expiration => IssuedAt.Add(ValidFor);
 
