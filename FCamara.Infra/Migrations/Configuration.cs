@@ -21,8 +21,8 @@ namespace FCamara.Infra.Migrations
                 new Customer("Edison", new Email("edijs.britto@gmail.com"), new User("edison", "edison"))
             );
             context.Products.AddOrUpdate(
-                new Product("Max Payne 3", "Jogo de acão Xbox 360", "maxpayne3.JPG", 32.65m),
-                new Product("Grand Theft Auto V", " - Xbox 360 Jogo de acão Xbox 360", "GTA5.JPG", 120m),
+                new Product("Max Payne 3", "Jogo de acão Xbox 360", "maxpayne3.jpg", 32.65m),
+                new Product("Grand Theft Auto V", " - Xbox 360 Jogo de acão Xbox 360", "GTA5.png", 120m),
                 new Product("Minecraft", "Jogo de acão Xbox 360", "minicraft.jpg", 85.60m),
                 new Product("Resident Evil 6", "Jogo de acão Xbox 360", "residentEvil6.jpg", 99.65m),
                 new Product("Lego Marvel Vingadores", "Jogo de acão Xbox 360", "vingadores.jpg", 32.65m),
