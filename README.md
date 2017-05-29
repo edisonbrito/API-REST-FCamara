@@ -14,7 +14,7 @@ Passos para funcionar.
     
     3. Atualize o arquivo Runtime.cs em -> Domain -> FCamara.Shared -> Runtime.cs
     
-    4. Fça um Build na solution.
+    4. Faça um Build na solution.
     
     5. Abra Package Manager Console Window e coloque "Update-Database" depois "Enter", faça isso na camada FCamara.Infra
     
