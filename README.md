@@ -8,7 +8,7 @@ Requesitos:
 
 Passos para funcionar.
 
-    1. Criei uma base de dados no SQL Server (ou deixei o entity criar para você)
+    1. Crie uma base de dados no SQL Server (ou deixei o entity criar para você)
     
     2. Atualize a connection string em appsettings.json em FCamara.API
     
